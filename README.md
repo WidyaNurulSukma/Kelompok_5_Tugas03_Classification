@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk mengklasifikasikan ada tidaknya penyakit jantung pada
 ## Dataset
 Dataset Klasifikasi Penyakit Jantung berisi informasi medis dan demografis pasien yang digunakan untuk memprediksi keberadaan penyakit jantung.
 
-**Dataset:** [Heart Failure Prediction Dataset]https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+**Dataset:** [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 **Fitur:**
 - **Informasi Demografis:** 
@@ -109,7 +109,7 @@ Proyek ini mencakup berbagai visualisasi:
 ## Kesimpulan
 Melalui proyek ini, kami telah mengimplementasikan dan membandingkan empat algoritma klasifikasi untuk prediksi penyakit jantung. Hasil analisis menunjukkan perbedaan performa antar model, dengan masing-masing algoritma memiliki kelebihan dan keterbatasannya sendiri.
 
-Model terbaik berdasarkan metrik evaluasi adalah [nama model], yang menunjukkan akurasi tertinggi dalam memprediksi penyakit jantung. Faktor-faktor seperti [fitur-fitur penting] ditemukan sebagai prediktor paling signifikan untuk penyakit jantung.
+Model terbaik berdasarkan metrik evaluasi adalah Logistic Regression, yang menunjukkan akurasi tertinggi dalam memprediksi penyakit jantung. Faktor-faktor seperti ST_Slope (Kemiringan Segmen ST), MaxHR (Detak Jantung Maksimum) dan Cholesterol (Kolesterol).   ditemukan sebagai prediktor paling signifikan untuk penyakit jantung.
 
 Implementasi model klasifikasi ini memiliki potensi aplikasi dalam sistem pendukung keputusan klinis untuk membantu diagnosis awal penyakit jantung berdasarkan faktor risiko dan indikator klinis.
 
