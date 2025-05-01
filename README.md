@@ -114,4 +114,4 @@ Model terbaik berdasarkan metrik evaluasi adalah Logistic Regression, yang menun
 Implementasi model klasifikasi ini memiliki potensi aplikasi dalam sistem pendukung keputusan klinis untuk membantu diagnosis awal penyakit jantung berdasarkan faktor risiko dan indikator klinis.
 
 ## Link Video Presentasi
-[Link akan ditambahkan setelah presentasi]
+https://youtu.be/VSN4XqiJj2I
